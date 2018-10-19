@@ -4,8 +4,8 @@
 }
 
 .tabel th{
-  color: white;
-  background-color: black;
+  color: black;
+  background-color: #BDBEC0;
   border: 3px solid white;
   text-align: center;
 }
